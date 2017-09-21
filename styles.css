@@ -3,5 +3,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url("https://lh6.googleusercontent.com/zM0_4PU8Hcrzr8Ur7-em4iGnDwY5HKRRMPRLRvv3iet04jQEYpyEyCukzS0-mKK6-PFDg_DMsc_9n6mFB0SyV7n2QCss69XIDY27zKajrSALMiR341rwa9ulQ2Ebao09O8kkmvyHYg");
+    background-size: cover;
 }
